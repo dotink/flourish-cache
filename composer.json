@@ -3,6 +3,7 @@
 	"description": "A simple API wrapper for multiple caching backends",
 	"keywords": ["caching"],
 	"license": "AGPL-3.0",
+	"type": "opus-package",
 	"authors": [
 		{
 			"name": "Matthew J. Sahagian",
