@@ -16,5 +16,12 @@
 	},
 	"autoload": {
 		"classmap": ["src/"]
+	},
+	"extra": {
+		"opus": {
+			"dotink/inkwell-2.0": {
+				"src": "library/flourish"
+			}
+		}
 	}
 }
