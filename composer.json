@@ -7,12 +7,12 @@
 	"authors": [
 		{
 			"name": "Matthew J. Sahagian",
-			"email": "matt@imarc.net",
+			"email": "gent@dotink.org",
 			"role": "Developer"
 		}
 	],
 	"require": {
-		"php": ">=5.3.0",
+		"php": ">=5.4.0",
 		"dotink/flourish-core": "dev-master"
 	},
 	"autoload": {

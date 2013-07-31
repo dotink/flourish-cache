@@ -2,7 +2,7 @@
 ## A simple caching interface for multiple backends
 
 _Copyright (c) 2007-2011 Will Bond, others_.
-[http://flourishlib.com/license](http://flourishlib.com/license)
+_Please see the LICENSE file at the root of this distribution_
 
 #### Namespace
 
